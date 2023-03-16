@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/The_Summit/static/css/main.9a6535f5.css",
+    "main.js": "/The_Summit/static/js/main.51744c07.js",
+    "static/media/slide_two.jpg": "/The_Summit/static/media/slide_two.a1b39467038cd705f5ff.jpg",
+    "static/media/slide_three.jpg": "/The_Summit/static/media/slide_three.b578b8eda615fb9f5273.jpg",
+    "static/media/slide_one.jpg": "/The_Summit/static/media/slide_one.8ab18d7a44f94cad53be.jpg",
+    "static/media/slick.svg": "/The_Summit/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/The_Summit/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/The_Summit/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/The_Summit/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/The_Summit/index.html",
+    "main.9a6535f5.css.map": "/The_Summit/static/css/main.9a6535f5.css.map",
+    "main.51744c07.js.map": "/The_Summit/static/js/main.51744c07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a6535f5.css",
+    "static/js/main.51744c07.js"
+  ]
+}
